@@ -1,0 +1,15 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 05 20:03:08.286023 2019] [mpm_event:notice] [pid 15:tid 140298892269440] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 05 20:03:08.286075 2019] [core:notice] [pid 15:tid 140298892269440] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 05 20:14:37.164884 2019] [mpm_event:notice] [pid 15:tid 139700382914432] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 05 20:14:37.164948 2019] [core:notice] [pid 15:tid 139700382914432] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 05 20:57:45.249472 2019] [mpm_event:notice] [pid 15:tid 140381434517376] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 05 20:57:45.249528 2019] [core:notice] [pid 15:tid 140381434517376] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 05 21:02:06.996168 2019] [mpm_event:notice] [pid 15:tid 139751328151424] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Tue Mar 05 21:02:06.996257 2019] [core:notice] [pid 15:tid 139751328151424] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sun Mar 10 16:28:51.526272 2019] [mpm_event:notice] [pid 15:tid 139668676724608] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Sun Mar 10 16:28:51.546377 2019] [core:notice] [pid 15:tid 139668676724608] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
